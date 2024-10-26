@@ -1,2 +1,2 @@
 # Android
-学习Android的仓库
+学习Android Studio的仓库
